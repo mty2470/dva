@@ -15,9 +15,7 @@ export default {
   subscriptions: {
     load({history,dispatch}){
       return history.listen((pathname, callback) => {
-        // if(pathname === '/'){
-        //   alert('2')
-        // }
+
       })
     }
   }
