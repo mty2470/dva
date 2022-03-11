@@ -2,7 +2,7 @@ https://www.cnblogs.com/geewonii/p/8385145.html
 
 
 dva+antd 集成
-
+测试
 安装项目依赖之后，依次安装
 npm install antd -–save
 npm install babel-plugin-import -–save-dev
